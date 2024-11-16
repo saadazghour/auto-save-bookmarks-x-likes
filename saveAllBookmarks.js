@@ -7,7 +7,7 @@
 function saveAllBookmarks() {
   console.log("Starting to save all bookmarks on this page...");
 
-  const bookmarkSelector = 'button[data-testid="bookmark"]';
+  const bookmarkSelector = "button[data-testid='bookmark']";
 
   function saveVisibleBookmarks() {
     const bookmarkButtons = document.querySelectorAll(bookmarkSelector);
