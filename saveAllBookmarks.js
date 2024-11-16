@@ -1,9 +1,3 @@
-// Disclaimer
-
-// This script is provided for personal use & educational purposes only.
-
-// The repository owner is not responsible for any misuse or account issues resulting from its use.
-
 function saveAllBookmarks() {
   console.log("Starting to save all bookmarks on this page...");
 
