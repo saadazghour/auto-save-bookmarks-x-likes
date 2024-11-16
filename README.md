@@ -1,20 +1,17 @@
 # Auto Save Bookmarks on X Likes Page
 
-This script automates the process of saving all bookmarks on the "Likes" page of your X (formerly Twitter) account. It clicks on the "Bookmark" button for all liked posts & h&les infinite scrolling to process all posts dynamically.
-
+This script automates the process of saving all bookmarks on the "Likes" page of your X (formerly Twitter) account. It clicks on the "Bookmark" button for all liked posts & handles infinite scrolling to process all posts dynamically.
 
 ## Features
 
 - Automatically saves all liked posts by clicking the "Bookmark" button.
-- H&les infinite scrolling to load & save new posts dynamically.
+- Handles infinite scrolling to load & save new posts dynamically.
 - Stops execution once all posts are processed.
-
 
 ## Prerequisites
 
 - A modern browser with developer tools (Google Chrome, Firefox, Edge, etc.).
 - Access to your X "Likes" page: `https://x.com/<your-username>/likes`.
-
 
 ## Steps to Use
 
@@ -53,20 +50,17 @@ This script automates the process of saving all bookmarks on the "Likes" page of
 
 ## Instructions for Users
 
-. Users should copy & paste the script from saveAllBookmarks.js into their browser console while on the https://x.com/<username>/likes page.
+- Users should copy & paste the script from saveAllBookmarks.js into their browser console while on the https://x.com/<username>/likes page.
 
-. The script will automatically save all liked posts by clicking the "Bookmark" button & handling infinite scroll.
+- The script will automatically save all liked posts by clicking the "Bookmark" button & handling infinite scroll.
 
 ### Notes
 
-    This script is designed to work specifically on the "Likes" page of X.
-    Ensure you scroll the page if posts are loaded dynamically & re-run the script if necessary.
-    Use this script responsibly & adhere to X's terms of service. Unauthorized automation might result in account restrictions.
+- This script is designed to work specifically on the "Likes" page of X.
+  Ensure you scroll the page if posts are loaded dynamically & re-run the script if necessary.
+
+- Use this script responsibly & adhere to X's terms of service. Unauthorized automation might result in account restrictions.
 
 ### Disclaimer
 
-- This script is provided for personal use & educational purposes only.
-
-  The repository owner is not responsible for any misuse or account issues resulting
-
-  from its use.
+- This script is provided for personal use & educational purposes only. The repository owner is not responsible for any misuse or account issues resulting from its use.
